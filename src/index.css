@@ -31,9 +31,7 @@ img {
 }
 
 a,
-a:visited{
-  text-decoration: underline;
-  color: white;}
+a:visited,
 
 a:hover {
   color: white;
